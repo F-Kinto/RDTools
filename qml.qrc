@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="qml/Main.qml">Main.qml</file>
+        <file alias="qml/ui/qmldir">ui/qmldir</file>
+        <file alias="qml/ui/Theme.qml">ui/Theme.qml</file>
+        <file alias="qml/ui/AppTitleBar.qml">ui/AppTitleBar.qml</file>
+        <file alias="qml/ui/BigIconButtonGrid.qml">ui/BigIconButtonGrid.qml</file>
+        <file alias="qml/ui/SmallIconButtonGrid.qml">ui/SmallIconButtonGrid.qml</file>
+        <file alias="qml/ui/TextButtonList.qml">ui/TextButtonList.qml</file>
+        <file alias="qml/ui/GridLayoutContainer.qml">ui/GridLayoutContainer.qml</file>
+        <file alias="qml/ui/ScreenCaptureOverlay.qml">ui/ScreenCaptureOverlay.qml</file>
+    </qresource>
+</RCC>

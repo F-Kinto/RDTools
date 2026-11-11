@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="style/CommonImage.css">CommonImage.css</file>
+        <file alias="style/CommonPngImage.css">CommonPngImage.css</file>
+    </qresource>
+</RCC>

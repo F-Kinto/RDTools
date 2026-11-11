@@ -1,0 +1,91 @@
+.CommonImage{
+    tab_close_img:"qrc:/svgSource/image/svgSource/tab_close_img.svg";/*tab栏 关闭按钮*/
+    tab_device_img:"qrc:/svgSource/image/svgSource/tab_device_img.svg";/*tab栏 设备管理*/
+    tab_lan_img:"qrc:/svgSource/image/svgSource/tab_lan_img.svg";/*tab栏 局域网设备*/
+    tab_msg_img:"qrc:/svgSource/image/svgSource/tab_msg_img.svg";/*tab栏 消息中心*/
+    tab_playback_img:"qrc:/svgSource/image/svgSource/tab_playback_img.svg";/*tab栏 回放*/
+    tab_cloudPlayback_img:"qrc:/svgSource/image/svgSource/tab_cloudPlayback_img.svg";/*tab栏 回放*/
+    tab_preview_img:"qrc:/svgSource/image/svgSource/tab_preview_img.svg";/*tab栏 实时预览*/
+    tab_workbench_img:"qrc:/svgSource/image/svgSource/tab_workbench_img.svg";/*tab栏 工作台*/
+    tab_record_img:"qrc:/svgSource/image/svgSource/tab_record_img.svg";/*tab栏 本地卡回放*/
+	
+    menu_logout:"qrc:/svgSource/image/svgSource/menu_logout.svg";/*tab栏 退出*/
+    menu_pwd:"qrc:/svgSource/image/svgSource/menu_pwd.svg";/*tab栏 修改密码*/
+    close_img:"qrc:/svgSource/image/svgSource/close_icon.svg";/*关闭窗口图标*/
+    restore_img:"qrc:/svgSource/image/svgSource/restore_img.svg";/*窗口化*/
+    min_img:"qrc:/svgSource/image/svgSource/min_img.svg";/*最小化*/
+    max_img:"qrc:/svgSource/image/svgSource/max_img.svg";/*最大化*/
+    setting_img:"qrc:/svgSource/image/svgSource/setting_img.svg";/*客户端设置*/
+    cpu_img:"qrc:/svgSource/image/svgSource/cpu_img.svg";/*CPU消息*/
+	
+	/***********************************直播底部控制栏功能按钮**************************************************/
+	full_screen_img:"qrc:/svgSource/image/svgSource/full_screen_img.svg";/*全屏按钮*/
+	zoom_slider_img:"qrc:/svgSource/image/svgSource/zoom_slider_img.svg";/*缩放按钮*/
+	zoom_img:"qrc:/svgSource/image/svgSource/zoom_img.svg";/*电子放大按钮*/
+	intercom_img:"qrc:/svgSource/image/svgSource/intercom_img.svg";/*对讲按钮*/
+	screen_img:"qrc:/svgSource/image/svgSource/screen_img.svg";/*截屏按钮*/
+	record_img:"qrc:/svgSource/image/svgSource/record_img.svg";/*录屏按钮*/
+	mute_img:"qrc:/svgSource/image/svgSource/mute_img.svg";/*静音按钮*/
+	voice_img:"qrc:/svgSource/image/svgSource/voice_img.svg";/*声音按钮*/
+	play_img:"qrc:/svgSource/image/svgSource/play_img.svg";/*播放按钮*/
+	pause_img:"qrc:/svgSource/image/svgSource/pause_img.svg";/*暂停按钮*/
+	
+	/**************************其他功能按钮***************************/
+	date_img:"qrc:/svgSource/image/svgSource/date_img.svg";/*日历按钮*/
+	refresh_img:"qrc:/svgSource/image/svgSource/refresh_img.svg";/*刷新按钮*/
+	sd_history_img:"qrc:/svgSource/image/svgSource/sd_history.svg";/*下载历史按钮*/
+	sd_record_img:"qrc:/svgSource/image/svgSource/sd_record.svg";/*下载记录按钮*/
+	download_img:"qrc:/svgSource/image/svgSource/download.svg";/*下载按钮*/
+	arrow_down_img:"qrc:/svgSource/image/svgSource/arrow_down.svg";/*阴影箭头 向下*/
+	cancel_img:"qrc:/svgSource/image/svgSource/cancel_icon.svg";/*云存-取消图标*/
+	delete_img:"qrc:/svgSource/image/svgSource/delete_icon.svg";/*云存-删除图标*/
+	video_img:"qrc:/svgSource/image/svgSource/video_icon.svg";/*sd视频图标*/
+	folder_img:"qrc:/svgSource/image/svgSource/folder_img.svg";/*打开文件夹*/
+	system_msg_img:"qrc:/svgSource/image/svgSource/system_message.svg";/*系统消息图标*/
+	rename_img:"qrc:/svgSource/image/svgSource/rename_img.svg";/*重命名图标*/
+	shutdown_img:"qrc:/svgSource/image/svgSource/shutdown_img.svg";/*关机/关闭直播 图标*/
+	ratio_img:"qrc:/svgSource/image/svgSource/ratio_img.svg";/*缩放图标*/
+	success_img:"qrc:/svgSource/image/svgSource/success_img.svg";/*成功 √ 图标*/
+	checkBox_img:"qrc:/svgSource/image/svgSource/checkBox_img.svg";/*复选框 图标*/
+	border_info_img:"qrc:/svgSource/image/svgSource/border_info_img.svg";/*提示info 图标(提示弹窗专属图标)*/
+	rect_info_img:"qrc:/svgSource/image/svgSource/rect_info_img.svg";/*提示info 图标(气泡提示专属图标)*/
+	tip_error_img:"qrc:/svgSource/image/svgSource/tip_error_img.svg";/*提示error 图标(气泡提示专属图标)*/
+	privacy_masking_img:"qrc:/svgSource/image/svgSource/privacy_masking.svg";/*隐私遮罩图标*/
+	
+	/**************************设备列表相关*****************************/
+	list_arrow_down_img:"qrc:/svgSource/image/svgSource/list_arrow_down.svg";/*设备列表-下拉箭头*/ 
+	list_arrow_up_img:"qrc:/svgSource/image/svgSource/list_arrow_up.svg";/*设备列表-下拉箭头*/ 
+	list_arrow_right_img:"qrc:/svgSource/image/svgSource/list_arrow_right.svg";/*设备列表-右边展开箭头*/ 
+	list_arrow_left_img:"qrc:/svgSource/image/svgSource/list_arrow_left.svg";/*设备列表-左边展开箭头*/
+	device_img:"qrc:/svgSource/image/svgSource/device_img.svg";/*设备列表-设备在线图标*/
+	device_offline_img:"qrc:/svgSource/image/svgSource/device_offline.svg";/*设备列表-离线离线图标*/ 
+	dock_left_img:"qrc:/svgSource/image/svgSource/dock_left.svg";/*设备列表-收起图标*/
+	
+	/***************************云台控制按钮背景*****************************/
+	ptz_left_img:"qrc:/svgSource/image/svgSource/ptz_left_img.svg";/*云台-左边按钮*/
+	ptz_right_img:"qrc:/svgSource/image/svgSource/ptz_right_img.svg";/*云台-右边按钮*/
+	ptz_up_img:"qrc:/svgSource/image/svgSource/ptz_up_img.svg";/*云台-上边按钮*/
+	ptz_down_img:"qrc:/svgSource/image/svgSource/ptz_down_img.svg";/*云台-下边按钮*/
+	
+	/********************************设备管理 设备设置相关*******************************************************/
+	account_dev_img:"qrc:/svgSource/image/svgSource/account_dev_img.svg";/*账号设备图标*/
+	local_dev_img:"qrc:/svgSource/image/svgSource/local_dev_img.svg";/*本地设备图标*/
+	add_img:"qrc:/svgSource/image/svgSource/add_img.svg";/*添加 符号图标*/
+	alarm_img:"qrc:/svgSource/image/svgSource/alarm_img.svg";/*侦测设置图标*/
+	basic_info_img:"qrc:/svgSource/image/svgSource/basic_info_img.svg";/*基本信息图标*/
+	battery_img:"qrc:/svgSource/image/svgSource/battery_img.svg";/*电源设置图标*/
+	image_img:"qrc:/svgSource/image/svgSource/image_img.svg";/*图像设置图标*/
+	network_img:"qrc:/svgSource/image/svgSource/network_img.svg";/*网络管理图标*/
+	lightSetting_img:"qrc:/svgSource/image/svgSource/lightsetting_img.svg";/*灯光设置图标*/
+	time_schedule_img:"qrc:/svgSource/image/svgSource/time_schedule.svg";/*定时全彩 时间计划图标*/
+	reboot_img:"qrc:/svgSource/image/svgSource/reboot_img.svg";/*重启设备图标*/
+	switch_net_img:"qrc:/svgSource/image/svgSource/switch_net_img.svg";/*切换流量卡图标*/
+	wifi1_img:"qrc:/svgSource/image/svgSource/wifi1_img.svg";/*wifi-1格信号图标*/
+	wifi2_img:"qrc:/svgSource/image/svgSource/wifi2_img.svg";/*wifi-2格信号图标*/
+	wifi3_img:"qrc:/svgSource/image/svgSource/wifi3_img.svg";/*wifi-3格信号图标*/
+	wifi4_img:"qrc:/svgSource/image/svgSource/wifi4_img.svg";/*wifi-4格信号图标*/
+	wifi4_lock_img:"qrc:/svgSource/image/svgSource/wifi4_lock_img.svg";/*wifi-4格信号图标(已连接)*/
+	wifi3_lock_img:"qrc:/svgSource/image/svgSource/wifi3_lock_img.svg";/*wifi-3格信号图标(已连接)*/
+	wifi2_lock_img:"qrc:/svgSource/image/svgSource/wifi2_lock_img.svg";/*wifi-2格信号图标(已连接)*/
+	wifi1_lock_img:"qrc:/svgSource/image/svgSource/wifi1_lock_img.svg";/*wifi-1格信号图标(已连接)*/
+}

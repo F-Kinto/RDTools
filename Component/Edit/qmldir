@@ -1,0 +1,24 @@
+Module Component.Edit
+
+LineEdit           1.0           LineEdit.qml
+CustomCheckBox     1.0           CustomCheckBox.qml
+CustomText         1.0           CustomText.qml
+CustomCalendar     1.0           CustomCalendar.qml
+CustomAreaDialog   1.0           CustomAreaDialog.qml
+FluTextEdit 	   1.0           FluTextEdit.qml
+FluMultiTextEdit   1.0           FluMultiTextEdit.qml
+FluComboBoxEdit    1.0           FluComboBoxEdit.qml
+FluDelegateItem    1.0           FluDelegateItem.qml
+FluAutoMatchBox    1.0           FluAutoMatchBox.qml
+FluCombolineEdit   1.0           FluCombolineEdit.qml
+FluCusSlider	   1.0           FluCusSlider.qml
+FluCusSpinBox	   1.0           FluCusSpinBox.qml
+FluCusSpinSlider   1.0           FluCusSpinSlider.qml
+FluCustomCalendar  1.0           FluCustomCalendar.qml
+FluCusTimePicker   1.0           FluCusTimePicker.qml
+FluDurTimePicker   1.0           FluDurTimePicker.qml
+FluDurDataPicker   1.0           FluDurDataPicker.qml
+FluTagLabel		   1.0           FluTagLabel.qml
+FluMultiTagEdit    1.0           FluMultiTagEdit.qml
+FluCusDatePicker   1.0           FluCusDatePicker.qml
+MessageTip         1.0           Messagetip.qml

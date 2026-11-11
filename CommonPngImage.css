@@ -1,0 +1,64 @@
+.CommonPngImage{
+	/****************************共用缺省图**************************************/
+	disconnect_img:"qrc:/general/image/general/disconnect1.png","qrc:/general/image/general/disconnect1_2.png";/*断开连接图片缺省图(时长限制断流场景)*/
+	default_background_img: "qrc:/app/image/app/defaultBg.png";/*默认缺省图(卡回放云回放等场景)*/
+	cloud_img:"qrc:/general/image/general/cloudImage.png","qrc:/general/image/general/cloudImage_2.png";/*未开通云存回放缺省图*/
+    cloud_empty_img:"qrc:/cloudStore/image/cloudStore/empty_icon.png";/*列表/文件为空的缺省图(本地回放列表为空, 消息中心等数据为空的场景显示)*/
+    cloud_img_item_img:"qrc:/cloudStore/image/cloudStore/cloud_img_item.png","qrc:/cloudStore/image/cloudStore/cloud_img_item@2x.png";/*云存列表事件缺省图*/
+    cloud_net_error_img:"qrc:/cloudStore/image/cloudStore/network_error.png","qrc:/cloudStore/image/cloudStore/network_error@2x.png";/*网络错误缺省图(云存加载失败场景)*/
+    sdCard_error_img:"qrc:/cloudStore/image/cloudStore/sdCard_null.png","qrc:/cloudStore/image/cloudStore/sdCard_null@2x.png";/*未插入SD卡缺省图(打开未插入sd卡的卡存回放场景)*/
+	deviceSleepStatus_img:"qrc:/general/image/general/hibernationIcon.png","qrc:/general/image/general/hibernationIcon_2.png";/*设备休眠缺省图*/
+	deviceStatus_img:"qrc:/edit/image/edit/deviceStatus.png";/*局域网设备,未扫描到设备缺省图*/
+	/****************************共用缺省图 End**********************************/
+	
+	/****************************直播界面相关的图片****************************************/
+	vipImage_img: "qrc:/general/image/general/Fairytale.png","qrc:/general/image/general/Fairytale_2.png";/*wifi设备会员标识*/
+    vipImage_4g_img: "qrc:/general/image/general/Fairytale_4g.png","qrc:/general/image/general/Fairytale_4g_2.png";/*4G设备会员标识*/
+    wakeUpDevice_img:"qrc:/general/image/general/pauseIcon.png","qrc:/general/image/general/pauseIcon_2.png";/*唤醒设备按钮图片*/
+    livePowerConsumption_img:"qrc:/general/image/general/livePowerConsumption_2.png","qrc:/general/image/general/livePowerConsumption_3.png";/*电池矩形图标(低功耗设备)*/
+    videoChargingState_img:"qrc:/general/image/general/videoChargingState.png","qrc:/general/image/general/videoChargingState_2.png";/*正在充电图标*/
+	/****************************直播界面相关的图片End****************************************/
+	
+	
+	/**********************关闭按钮, 团队管理部分界面仍在使用 后续优化****************************/
+	closeButtonUrl_img: "qrc:/general/image/general/closeBtn.png","qrc:/general/image/general/closeBtn_2.png";
+    hoverButtonUrl_img: "qrc:/general/image/general/closeHover.png","qrc:/general/image/general/closeHover_2.png";
+    pressedButtonUrl_img: "qrc:/general/image/general/closeHover.png","qrc:/general/image/general/closeHover_2.png";
+	/**********************关闭按钮, End****************************************************/
+	
+	/*****************************************共用功能按钮图标************************************/
+	searchImageUrl_img: "qrc:/edit/image/edit/searchButton.png,qrc:/edit/image/edit/searchButton_2.png";/*搜索图标*/
+	cloud_select_img:"qrc:/cloudStore/image/cloudStore/select_all.png","qrc:/cloudStore/image/cloudStore/select_all@2x.png";/*云存-全选图标*/
+    resultError_img:"qrc:/general/image/general/resultError.png","qrc:/general/image/general/resultError_2.png";/*红色×  局域网添加设备成功的设备*/
+	template_download_default_img:"qrc:/button/image/button/download_transparency.png","qrc:/button/image/button/download_transparency_2.png";/*下载图标*/
+    export_departmentInformation_img:"qrc:/button/image/button/export.png","qrc:/button/image/button/export_2.png";/*导出图标-团队管理相关*/
+    uploading_departmentInformation_img:"qrc:/button/image/button/uploading.png","qrc:/button/image/button/uploading_2.png";/*上传图标*/
+	valueAddedServicesButton_normalImage_img:"qrc:/home/image/home/home_titlebar_service.png","qrc:/home/image/home/home_titlebar_service@2x.png";/*增值服务图标*/
+    main_title_avatar_nor_Btn_img:"qrc:/home/image/home/home_titlebar_avatar_nor@2x.png","qrc:/home/image/home/home_titlebar_avatar_nor@2x.png";/*主页面未登录头像图标*/
+	/*****************************************共用功能按钮图标 End********************************/
+	
+	/****************************************登录相关********************************************/
+	phoneImageUrl_img: "qrc:/general/image/general/phoneIcon.png","qrc:/general/image/general/phoneIcon_2.png";/*手机号登录 前置图标*/
+    emailImageUrl_img: "qrc:/general/image/general/emailIcon.png","qrc:/general/image/general/emailIcon_2.png";/*邮箱登录 前置图标*/
+    foreginLogo_img: "qrc:/general/image/general/camLogo.png","qrc:/general/image/general/camLogo.png";/*CAM720 logo*/
+    loginBg_img: "qrc:/login/image/login/login_bg.png","qrc:/login/image/login/login_bg.png";/*登录背景*/
+    loginAccountEdit_img: "qrc:/login/image/login/login_input_account@2x.png","qrc:/login/image/login/login_input_account@2x.png";/*账号登录 前置图标*/
+    loginPwdEdit_img: "qrc:/login/image/login/login_input_pwd@2x.png","qrc:/login/image/login/login_input_pwd@2x.png";/*密码输入 前置图标*/
+    hide_pwd_img:"qrc:/login/image/login/login_input_pwd_hide.png","qrc:/login/image/login/login_input_pwd_hide@2x.png";/*密码输入框小眼睛图标*/
+    show_pwd_img:"qrc:/login/image/login/login_input_pwd_show.png","qrc:/login/image/login/login_input_pwd_show@2x.png";/*密码输入框小眼睛图标*/
+	/****************************************登录相关End********************************************/
+	
+	/****************************************消息中心相关********************************************/
+    info_warning24_img: "qrc:/general/image/general/warn24.png","qrc:/general/image/general/warn24_2.png";/*消息提示,警告图标*/
+    info_success24_img: "qrc:/general/image/general/success24.png","qrc:/general/image/general/success24_2.png";/*消息提示-圆圈绿色√*/
+    loading_img: "qrc:/general/image/general/loading.png";/*加载loading, 其余场景(纯白)*/
+    loading_2_img: "qrc:/general/image/general/loading_2.png";/*加载loading圈圈, 直播场景*/
+    MsgDefaultImg_img: "qrc:/general/image/general/MsgDefaultImg.png";/*消息中心-事假列表 默认缺省图*/
+    cellHeader_img: "qrc:/message/image/message/cell_header.png","qrc:/message/image/message/cell_header@2x.png";/*消息中心-消息描述  绿√*/
+    msgEmpty_img: "qrc:/message/image/message/msgEmpty.png";/*消息中心 空白页面消息缺省图*/
+    video_camera_img: "qrc:/message/image/message/video_camera.png","qrc:/message/image/message/video_camera@2x.png";/*录屏图标(带有红叉)*/
+    qiaoan_icon_img: "qrc:/message/image/message/qiaoan_icon.png","qrc:/message/image/message/qiaoan_icon.png";/*乔安Logo*/
+	/****************************************消息中心相关End********************************************/
+
+    icon_4G_img: "qrc:/general/image/general/4G_icon.png","qrc:/general/image/general/4G_icon@2x.png";/*4G图标*/
+}

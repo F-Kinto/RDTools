@@ -1,0 +1,15 @@
+Module Component.Dialog
+
+FluInfoBox              1.0           FluInfoBox.qml
+FluInfoTip              1.0           FluInfoTip.qml
+FluInfoTitleTip         1.0           FluInfoTitleTip.qml
+FluMiniProgress         1.0           FluMiniProgress.qml
+FluRemindBox            1.0           FluRemindBox.qml
+FluSingleBtnBox         1.0           FluSingleBtnBox.qml
+FluSingleBtnTip         1.0           FluSingleBtnTip.qml
+FluLoadingBox           1.0           FluLoadingBox.qml
+FluModalDialog          1.0           FluModalDialog.qml
+FluExitAppDialog        1.0           FluExitAppDialog.qml
+FluCustomTipDialog      1.0           FluCustomTipDialog.qml
+FluMessageBox           1.0           FluMessageBox.qml
+FluCustomTipItem        1.0           FluCustomTipItem.qml

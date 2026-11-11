@@ -1,0 +1,6 @@
+singleton Theme 1.0 Theme.qml
+AppTitleBar 1.0 AppTitleBar.qml
+BigIconButtonGrid 1.0 BigIconButtonGrid.qml
+GridLayoutContainer 1.0 GridLayoutContainer.qml
+SmallIconButtonGrid 1.0 SmallIconButtonGrid.qml
+TextButtonList 1.0 TextButtonList.qml

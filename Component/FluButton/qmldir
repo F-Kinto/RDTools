@@ -1,0 +1,13 @@
+Module Component.FluButton
+
+FluCustomDropDownButton             1.0           FluCustomDropDownButton.qml
+FluCustomRadioButton                1.0           FluCustomRadioButton.qml
+FluCustomCheckBox                   1.0           FluCustomCheckBox.qml
+FluCustomToggleSwitch               1.0           FluCustomToggleSwitch.qml
+FluCustomUploadFileButton           1.0           FluCustomUploadFileButton.qml
+FluCustomPtzControl		    		1.0           FluCustomPtzControl.qml
+FluCustomPickBtn    		    	1.0           FluCustomPickBtn.qml
+FluCustomIconButton                 1.0         FluCustomIconButton.qml
+FluCustomSortBtn		    1.0           FluCustomSortBtn.qml
+FluCapsuleSwitchButton              1.0           FluCapsuleSwitchButton.qml
+FluCustomShapeButton                1.0           FluCustomShapeButton.qml

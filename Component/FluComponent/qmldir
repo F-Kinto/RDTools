@@ -1,0 +1,25 @@
+Module Component.FluComponent
+
+FluCustomAppBar          1.0           FluCustomAppBar.qml
+FluCustomTabView         1.0           FluCustomTabView.qml
+FluLoaderWindow          1.0           FluLoaderWindow.qml
+SystemTray               1.0           SystemTray.qml
+FluCustomStep            1.0           FluCustomStep.qml
+FluCustomStatusHint      1.0           FluCustomStatusHint.qml
+FluCustomTooltip         1.0           FluCustomTooltip.qml
+FluCustomPopover         1.0           FluCustomPopover.qml
+FluPreviewPopUp          1.0           FluPreviewPopUp.qml
+FluCustomContextMenu     1.0           FluCustomContextMenu.qml
+FluCustomLable           1.0           FluCustomLable.qml
+FluCustomImage           1.0           FluCustomImage.qml
+FluToastTip	             1.0           FluToastTip.qml
+FluCustomTableView	     1.0           FluCustomTableView.qml
+FluDeviceTableView	     1.0           FluDeviceTableView.qml
+FullScreenOverlay	     1.0           FullScreenOverlay.qml
+FluTest                  1.0           FluTest.qml
+FluCustomWindow          1.0           FluCustomWindow.qml
+FluCustomScrollBar       1.0           FluCustomScrollBar.qml
+FluCustomProgressBar     1.0           FluCustomProgressBar.qml
+FluCustomInfoBar         1.0           FluCustomInfoBar.qml
+FluCustomImageLoader     1.0           FluCustomImageLoader.qml
+FluCustomSvg     		 1.0           FluCustomSvg.qml

@@ -1,0 +1,12 @@
+Module Component.Adaptor
+
+# DesignTokens 单例 - 设计系统 Token
+singleton DesignTokens 1.0 DesignTokens.qml
+
+TextButton          1.0           TextButton.qml
+TimeSelectItem      1.0           TimeSelectItem.qml
+FluImageButton      1.0           FluImageButton.qml
+HotloadWindow       1.0           HotloadWindow.qml
+TimeFilterBtn       1.0           TimeFilterBtn.qml
+TimePickerDialog    1.0           TimePickerDialog.qml
+CustomItem          1.0           CustomItem.qml

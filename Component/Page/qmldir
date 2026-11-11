@@ -1,0 +1,12 @@
+Module Component.Page
+
+WorkbenchPage            1.0           WorkbenchPage.qml
+QATableView              1.0           QATableView.qml
+CustomTreeView           1.0           CustomTreeView.qml
+T_TableView              1.0           T_TableView.qml
+RealTimePreview          1.0           RealTimePreview.qml
+VideoPlayback            1.0           VideoPlayback.qml
+DeviceManagerView        1.0           DeviceManagerView.qml
+LanDevicePage        	 1.0           LanDevicePage.qml
+CloudPlayback            1.0           CloudPlayback.qml
+MessageListenItem        1.0           MessageListenItem.qml
